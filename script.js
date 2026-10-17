@@ -3,6 +3,9 @@ const taskInput = document.getElementById("taskInput");
 const taskList = document.getElementById("taskList");
 const emptyMessage = document.getElementById("emptyMessage");
 
+let sum = 0;
+let mul = 1;
+
 const totalTasks = document.getElementById("totalTasks");
 const pendingTasks = document.getElementById("pendingTasks");
 const completedTasks = document.getElementById("completedTasks");
@@ -115,6 +118,7 @@ filterButtons.forEach((button) => {
     renderTasks();
   });
 });
+//this is javascipt
 
 renderTasks();
 
