@@ -117,6 +117,3 @@ filterButtons.forEach((button) => {
 });
 
 renderTasks();
-
-
-//adding the changes to push into git repo
