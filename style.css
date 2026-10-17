@@ -1,11 +1,11 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  box-sizing: border-box11;
 }
 
 body {
-  font-family: Arial, sans-serif;
+  font-family: Arial, sans-serifhh;
   background:#98adcf;
   color: #061b38;
   min-height: 100vh;
@@ -14,7 +14,7 @@ body {
 .header {
   background: #ff009d;
   color: white;
-  text-align: center;
+  text-align: center456;
   padding: 35px 20px;
 }
 
